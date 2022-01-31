@@ -95281,6 +95281,17 @@
         "twitter": "https://twitter.com/SolSkullsNFT",
         "website": "https://skolsnft.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DjLJE1knRqfcXqX9LHDK2F8Vatim4DDzL8t1662kinHs",
+      "symbol": "SP",
+      "name": "SHEEPCOIN",
+      "decimals": 0,
+      "logoURI": "https://github.com/THESHEEPCOIN/Crypto/blob/main/SHEEP%20(2).png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
